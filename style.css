@@ -1,0 +1,171 @@
+/* login page */
+
+position: relative;
+width: 1440px;
+height: 1024px;
+
+background: #4c5897;
+
+/* WORKIN’ WELLIE */
+
+position: absolute;
+width: 1094px;
+height: 141px;
+left: 173px;
+top: 105px;
+
+font-family: "Amaranth";
+font-style: normal;
+font-weight: 700;
+font-size: 100px;
+line-height: 121px;
+text-align: center;
+
+color: #ffffff;
+
+/* Rectangle 8 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 1236px;
+height: 107px;
+left: 113px;
+top: 407px;
+
+background: #ffffff;
+border: 1px solid #d9d9d9;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 50px;
+
+/* Rectangle 9 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 1236px;
+height: 107px;
+left: 113px;
+top: 635px;
+
+background: #ffffff;
+border: 1px solid #d9d9d9;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 50px;
+
+/* Username or Email */
+
+position: absolute;
+width: 574px;
+height: 41px;
+left: 113px;
+top: 345px;
+
+font-family: "Inter";
+font-style: normal;
+font-weight: 734;
+font-size: 30px;
+line-height: 36px;
+
+color: #ffffff;
+font-variation-settings: "slnt" 0;
+
+/* Password */
+
+position: absolute;
+width: 297px;
+height: 38px;
+left: 125px;
+top: 579px;
+
+font-family: "Inter";
+font-style: normal;
+font-weight: 734;
+font-size: 30px;
+line-height: 36px;
+
+color: #ffffff;
+font-variation-settings: "slnt" 0;
+
+/* Group 14 */
+
+position: absolute;
+width: 1418px;
+height: 39.12px;
+left: 22px;
+top: 233px;
+
+/* Line 3 */
+
+position: absolute;
+width: 362.56px;
+height: 0px;
+left: 22px;
+top: 252.56px;
+
+border: 1px solid #fff1ee;
+
+/* Line 4 */
+
+position: absolute;
+width: 374.64px;
+height: 0px;
+left: 1065.36px;
+top: 252.56px;
+
+border: 1px solid #fff1ee;
+
+/* log in to get started */
+
+position: absolute;
+width: 568.01px;
+height: 39.12px;
+left: 444.98px;
+top: 233px;
+
+font-family: "Inter";
+font-style: normal;
+font-weight: 734;
+font-size: 40px;
+line-height: 48px;
+text-align: center;
+
+color: #fff1ee;
+font-variation-settings: "slnt" 0;
+
+/* Don’t have an account? */
+
+position: absolute;
+width: 681px;
+height: 31px;
+left: 569px;
+top: 862px;
+
+font-family: "Inter";
+font-style: normal;
+font-weight: 734;
+font-size: 30px;
+line-height: 36px;
+
+color: #e3e3e3;
+font-variation-settings: "slnt" 0;
+
+/* Sign up */
+
+position: absolute;
+width: 221px;
+height: 32px;
+left: 610px;
+top: 934px;
+
+font-family: "Inter";
+font-style: normal;
+font-weight: 734;
+font-size: 30px;
+line-height: 36px;
+text-align: center;
+
+color: #fff1ee;
+font-variation-settings: "slnt" 0;
+
+text-shadow: 0px 4px 4px rgba(192, 192, 192, 0.25);
